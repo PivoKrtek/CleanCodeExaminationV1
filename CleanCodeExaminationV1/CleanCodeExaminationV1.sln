@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCodeGameV1", "CleanCodeGameV1\CleanCodeGameV1.csproj", "{E82F0C63-D784-4D9F-BE27-1E8FF494B88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCleanCodeGameV1", "TestCleanCodeGameV1\TestCleanCodeGameV1.csproj", "{DB79EB97-C18D-4023-9913-58B731978886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82F0C63-D784-4D9F-BE27-1E8FF494B88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82F0C63-D784-4D9F-BE27-1E8FF494B88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82F0C63-D784-4D9F-BE27-1E8FF494B88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82F0C63-D784-4D9F-BE27-1E8FF494B88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB79EB97-C18D-4023-9913-58B731978886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB79EB97-C18D-4023-9913-58B731978886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB79EB97-C18D-4023-9913-58B731978886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB79EB97-C18D-4023-9913-58B731978886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AFC6AC4-1878-49A6-B25C-AF29D73B72E0}
+	EndGlobalSection
+EndGlobal
